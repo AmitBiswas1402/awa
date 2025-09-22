@@ -2,9 +2,9 @@ import Navbar from "@/components/navbar/Navbar"
 
 const Page = () => {
   return (
-    <div>
+    <main>
       <Navbar />
-    </div>
+    </main>
   )
 }
 export default Page
